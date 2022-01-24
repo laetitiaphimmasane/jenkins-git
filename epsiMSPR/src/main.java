@@ -8,7 +8,7 @@ public class main {
         //TODO : Réinjecter dans le HTML
 
         String html = "<div><h1>C'est un fichier HTML</h1><p>Petit paragraphe</p></div>";
-        File file = new File("C:\\Users\\Lele\\IdeaProjects\\GoSecuri\\com.epsi.javahtmlfiles\\test.html");
+        File file = new File("C:\temp\test.html");
 
         try
         {
